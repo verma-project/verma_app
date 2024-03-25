@@ -18,7 +18,7 @@ class _StubButtonState extends State<StubButton> {
 
   _showMessage() {
     ScaffoldMessenger.of(context)
-        .showSnackBar(const SnackBar(content: Text('TBA.'),
+        .showSnackBar(const SnackBar(content: Text('To be added.'),
     ),
     );
   }

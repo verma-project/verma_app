@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:dera_app/views/dashboard.dart';
+import 'package:verma_app/app/views/dashboard.dart';
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
@@ -8,7 +8,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext ctx) {
     return MaterialApp(
-        title: 'Dera',
+        title: 'Verma',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primaryColor: const Color(0xff2a2119),

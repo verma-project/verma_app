@@ -1,4 +1,4 @@
-import 'package:dera_app/views/widgets/stub_button.dart';
+import 'package:verma_app/app/views/widgets/stub_button.dart';
 import 'package:flutter/material.dart';
 
 class Dashboard extends StatefulWidget {
@@ -13,7 +13,7 @@ class _DashboardState extends State<Dashboard> {
   Widget build(BuildContext ctx) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Dera'),
+        title: const Text('Verma'),
       ),
       body: const Center(
         child: StubButton(),

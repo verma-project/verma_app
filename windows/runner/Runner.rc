@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "uk.org.shymega.repaircafe.dera.app" "\0"
-            VALUE "FileDescription", "dera_app" "\0"
+            VALUE "CompanyName", "org.vermaproject.apps" "\0"
+            VALUE "FileDescription", "Verma" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dera_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 uk.org.shymega.repaircafe.dera.app. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dera_app.exe" "\0"
-            VALUE "ProductName", "dera_app" "\0"
+            VALUE "InternalName", "verma" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 The Verma Developers. Licensed under Apache 2.0" "\0"
+            VALUE "OriginalFilename", "verma.exe" "\0"
+            VALUE "ProductName", "Verma" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

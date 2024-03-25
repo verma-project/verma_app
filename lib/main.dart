@@ -1,4 +1,4 @@
-import 'package:dera_app/app.dart';
+import 'package:verma_app/app/app.dart';
 import 'package:flutter/material.dart';
 
 void main() {

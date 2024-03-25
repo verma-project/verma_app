@@ -1,11 +1,11 @@
 {
-    "name": "dera_app",
-    "short_name": "dera_app",
+    "name": "Verma",
+    "short_name": "Verma",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A customer/volunteer multi-platform app for Dera.",
+    "description": "Frontend application for the Verma platform.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
