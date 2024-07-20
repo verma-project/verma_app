@@ -14,6 +14,6 @@ class App extends StatelessWidget {
           primaryColor: const Color(0xff2a2119),
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-      home: Dashboard());
+        home: Dashboard());
   }
 }

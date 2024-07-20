@@ -11,15 +11,16 @@ class _StubButtonState extends State<StubButton> {
   @override
   Widget build(BuildContext ctx) {
     return TextButton(
-        onPressed: _showMessage,
-        child: const Text('Login'),
+      onPressed: _showMessage,
+      child: const Text('Login'),
     );
   }
 
   _showMessage() {
-    ScaffoldMessenger.of(context)
-        .showSnackBar(const SnackBar(content: Text('To be added.'),
-    ),
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('To be added.'),
+      ),
     );
   }
 }
