@@ -14,7 +14,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   openapi_generator_annotations: ^5.0.2
-  uuid: ^4.3.3
+  uuid: ^4.5.0
 
 dev_dependencies:
   flutter_test:
